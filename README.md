@@ -2,7 +2,7 @@
 <!--                    ⚠️ SYSTEM BREACH — UNAUTHORIZED ACCESS DETECTED              -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0a0a0a,50:ff0033,100:0a0a0a&text=OPERATOR%3A%20NITISH%20CHAUHAN&fontColor=ff0033&fontSize=38&animation=twinkling&stroke=ff0033&strokeWidth=2" alt="Header" />
+  <img src="BannerGithub.png" alt="Header" />
 </p>
 <div align="center">
 https://git.io/typing-svg
