@@ -195,3 +195,7 @@ plain
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!--                    END OF TRANSMISSION — HAVE A NICE DAY, OPERATOR              -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/algo-nitish/algo-nitish/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
